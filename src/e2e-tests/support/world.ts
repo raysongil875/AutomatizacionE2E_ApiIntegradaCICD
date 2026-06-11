@@ -25,8 +25,8 @@ export class CustomWorld extends World {
     this.baseUrl = process.env.BASE_URL || 'https://www.saucedemo.com';
     this.userStandard = process.env.USER_STANDARD || 'standard_user';
     this.userPassword = process.env.USER_PASSWORD || 'secret_sauce';
-    this.firstName = process.env.FIRST_NAME || 'Jael';
-    this.lastName = process.env.LAST_NAME || 'Diaz';
+    this.firstName = process.env.FIRST_NAME || 'Rayson';
+    this.lastName = process.env.LAST_NAME || 'Gil';
     this.postalCode = process.env.POSTAL_CODE || '10101';
   }
 

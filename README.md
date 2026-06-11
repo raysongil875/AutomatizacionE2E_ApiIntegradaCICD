@@ -26,7 +26,7 @@ Para ejecutar este proyecto se requiere:
 1. Clonar el repositorio:
 
 ```bash
-git clone https://github.com/jaeldiaz/AutomatizacionE2E_ApiIntegradaCICD.git
+git clone https://github.com/raysongil/AutomatizacionE2E_ApiIntegradaCICD.git
 cd AutomatizacionE2E_ApiIntegradaCICD
 
 
